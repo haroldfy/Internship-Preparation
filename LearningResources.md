@@ -20,3 +20,8 @@
 
 - [Awesome Big O](https://github.com/okulbilisim/awesome-big-o)
 
+### Projects
+
+- [Project Based Learning](https://github.com/tuvttran/project-based-learning)
+> Curated list of project-based tutorials
+
