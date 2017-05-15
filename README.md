@@ -40,6 +40,11 @@
 - AC代码包含注释
 - 除提交代码外可以提交笔记
 
+### 资源索引
+
+- [面试问题](https://github.com/rootshaw/Refactoryourself/blob/master/InterviewQuestion.md)
+- [System Design问题](https://github.com/rootshaw/Refactoryourself/blob/master/SystemDesignProblem.md)
+
 ## CHANGELOG
 
 - 170513 初版
