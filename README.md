@@ -42,8 +42,7 @@
 
 ### 资源索引
 
-- [面试问题](https://github.com/rootshaw/Refactoryourself/blob/master/InterviewQuestion.md)
-- [System Design问题](https://github.com/rootshaw/Refactoryourself/blob/master/SystemDesignProblem.md)
+- [学习资源](https://github.com/rootshaw/Refactoryourself/blob/master/LearningResources.md)
 
 ## CHANGELOG
 
