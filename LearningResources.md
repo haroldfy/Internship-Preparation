@@ -42,7 +42,7 @@
 > 实现自己的编程语言。
 
 - [Flask Web Development](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-> 用Flask和Python实现推特。顺便也有源码： [Flasky](https://github.com/miguelgrinberg/flasky)
+> 用Flask和Python实现Twitter，源码： [Flasky](https://github.com/miguelgrinberg/flasky)
 
 - [GitHub - MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects](https://github.com/MunGell/awesome-for-beginners)
 > 一系列各种语言的入门项目，觉得简单可以在这个基础上增加新功能。
