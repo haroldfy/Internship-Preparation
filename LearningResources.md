@@ -1,19 +1,15 @@
 # Learning Resources
 
-## Interview Question
+### Interview Question
 
-### 资源
 - [Interview Question](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 
-## Learning Resources
-
-### 资源
+### Learning Resources
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-## System Design Problem
+### System Design Problem
 
-### 资源
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
