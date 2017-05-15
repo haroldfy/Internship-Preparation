@@ -19,6 +19,7 @@
 ### Algorithms
 
 - [Awesome Big O](https://github.com/okulbilisim/awesome-big-o)
+> A curated list of awesome materials about Big O notation
 
 ### Projects
 
