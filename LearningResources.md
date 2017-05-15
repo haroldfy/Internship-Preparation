@@ -22,12 +22,12 @@
 ### Algorithms
 
 - [Awesome Big O](https://github.com/okulbilisim/awesome-big-o)
-> A curated list of awesome materials about Big O notation
+> A curated list of awesome materials about Big O notation.
 
 ### Projects
 
 - [Project Based Learning](https://github.com/tuvttran/project-based-learning)
-> Curated list of project-based tutorials
+> Curated list of project-based tutorials.
 
 - [BitTorrent](https://cheatdeath.github.io/research-bittorrent-doc/)
 > 用C#实现一个BT客户端。
@@ -55,14 +55,4 @@
 
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 > 开源电子书，列举了不少短小又有深度的项目，可以在原基础上继续完善。
-
-最后推荐一些比较简单又有阅读价值的源码：
-
-- [GitHub - antirez/redis: Redis is an in-memory database](https://github.com/antirez/redis)
-
-
-- [GitHub - pallets/flask: A micro framework based on Werkzeug, Jinja2 and good intentions](https://github.com/pallets/flask)
-
-- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-> 同样是这个系列电子书，有几本开源电子书提供了很多著名项目的分析，充当了解读手册的作用，可以一读。
 
