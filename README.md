@@ -20,6 +20,7 @@
 - Issue可以当作学习计划使用，可以通过MileStone来对学习任务进行筛选
 
   - LeetCode Daily是按照LeetCode顺序，每天5题，其中两道Easy，两道Medium，一道Hard
+  
   - Algorithms是按照Princeton的Algorithms课程按照专题挑选的题目，来源不局限于LeetCode
 
 - Issue的顺序可以根据标题看出来，W表示周数，D表示天数，根据MileStone筛选后按顺序进行即可
