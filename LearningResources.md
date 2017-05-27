@@ -19,6 +19,9 @@
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 > Learn how to design large-scale systems. Prep for the system design interview. 
 
+- [System Design总结](https://www.mitbbs.com/article_t/JobHunting/32777529.html)
+> System Design Summary in Chinese.
+
 ### Algorithms
 
 - [Awesome Big O](https://github.com/okulbilisim/awesome-big-o)
