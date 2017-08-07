@@ -6,3 +6,4 @@
 - Ubisoft
 - EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Already Open for 2018)
 - Intel: [View great career opportunities at Intel](http://jobs.intel.com/ListJobs/All/Search/jobtitle/intern/keyword/software%20engineer/) (Already Open for 2018)
+- Twitter: [2018 University Application | Full-time & Internship](https://careers.twitter.com/en/work-for-twitter/2018-university-application-full-time-internship.html)
