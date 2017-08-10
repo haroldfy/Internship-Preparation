@@ -8,7 +8,7 @@
 - Microsoft: [Microsoft Careers: Students and graduates apply](https://careers.microsoft.com/students/apply?rg=US&jf=9&el=3&jt=2) (Already Open)
 - LinkedIn: [Technical](https://studentcareers.linkedin.com/internships/technical) 
 - Tesla: [University Careers | Tesla](https://www.tesla.com/careers/university)
-- Ebay: [Students & Recent Graduates - eBay Inc. Careers](https://careers.ebayinc.com/join-our-team/students-recent-graduates/) (Open for Full-Time) (No America Internship yet)
+- Ebay: [Students & Recent Graduates - eBay Inc. Careers](https://careers.ebayinc.com/join-our-team/students-recent-graduates/) (Open for Full-Time) (Unopened)
 - Yelp: [Job Openings at Yelp - We are Hiring Now!](https://www.yelp.com/careers/job-openings)
 - Expedia: [Workday](https://expedia.wd5.myworkdayjobs.com/search/jobs/) (Open for Full-Time)
 - A9: [A9](https://www.a9.com/work-with-us/jobs.html) (Open for Full-Time)
@@ -35,6 +35,7 @@
 - Dropbox: [Jobs - University Grads & Interns - Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)
 - Quora: [Careers - Quora](https://www.quora.com/careers)
 - Spotify: [Search jobs at Spotify - Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
+- Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads) (Unopened)
 
 ## Games
 - Ubisoft: [Ubisoft - Careers / Search for Jobs](https://www.ubisoft.com/en-US/careers/search.aspx)
