@@ -8,6 +8,7 @@
 - LinkedIn: [Technical](https://studentcareers.linkedin.com/internships/technical) 
 - Tesla: [University Careers | Tesla](https://www.tesla.com/careers/university)
 - Ebay: [Students & Recent Graduates - eBay Inc. Careers](https://careers.ebayinc.com/join-our-team/students-recent-graduates/) (Open for Full-Time) (No America Internship yet)
+- A9: [A9](https://www.a9.com/work-with-us/jobs.html) (Open for Full-Time)
 
 ## StartUp
 - Drive.AI: [drive.ai | Building the Brain of Self-Driving Vehicles](https://www.drive.ai/careers/)
