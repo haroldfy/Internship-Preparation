@@ -1,5 +1,5 @@
 ## General
-- Amazon: [University Recruiting - Amazon.jobs](https://www.amazon.jobs/en/business_categories/university-recruiting?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&business_category%5B%5D=university-recruiting&cache)
+- Amazon: [University Recruiting - Amazon.jobs](https://www.amazon.jobs/en/business_categories/university-recruiting?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&business_category%5B%5D=university-recruiting&cache)(Already Open for 2018)
 - Oculus: [Oculus](https://www3.oculus.com/en-us/careers/) (For Intership: Only Hire Research Internship)
 - Intel: [View great career opportunities at Intel](http://jobs.intel.com/ListJobs/All/Search/jobtitle/intern/keyword/software%20engineer/) (Already Open for 2018)
 - Twitter: [2018 University Application | Full-time & Internship](https://careers.twitter.com/en/work-for-twitter/2018-university-application-full-time-internship.html)
