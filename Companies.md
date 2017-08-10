@@ -47,6 +47,7 @@
 - Hudson River
 - Two Sigma
 - Citadel
+- D.E.Shaw: [The D. E. Shaw Group | Careers](https://www.deshaw.com/Careers.shtml)(Opened)
 
 ## Other
 - HBO: [Search For Jobs | Time Warner Inc.](http://www.timewarner.com/careers/job-search)
