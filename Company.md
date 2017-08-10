@@ -42,7 +42,7 @@
 - Value: [Valve](http://www.valvesoftware.com/jobs/index.html) (No new Grad)
 - BioWare: [Careers | BioWare](http://www.bioware.com/en/careers/#current-openings)
 
-## HF
+## Finance
 - IMC
 - Jane Street
 - Hudson River
