@@ -7,6 +7,7 @@
 - Microsoft: [Microsoft Careers: Students and graduates apply](https://careers.microsoft.com/students/apply?rg=US&jf=9&el=3&jt=2) (Always open)
 - LinkedIn: [Technical](https://studentcareers.linkedin.com/internships/technical) 
 - Tesla: [University Careers | Tesla](https://www.tesla.com/careers/university)
+- Ebay: [Students & Recent Graduates - eBay Inc. Careers](https://careers.ebayinc.com/join-our-team/students-recent-graduates/) (Open for Full-Time) (No America Internship yet)
 
 ## StartUp
 - Drive.AI: [drive.ai | Building the Brain of Self-Driving Vehicles](https://www.drive.ai/careers/)
