@@ -1,4 +1,4 @@
-# Company List
+# Companies List
 ## General
 - Amazon: [University Recruiting - Amazon.jobs](https://www.amazon.jobs/en/business_categories/university-recruiting?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&business_category%5B%5D=university-recruiting&cache)(Already Open for 2018, both for Full time and Internship)
 - Oculus: [Oculus](https://www3.oculus.com/en-us/careers/) (For Intership: Only Hire Research Internship)
