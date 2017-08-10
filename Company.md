@@ -1,8 +1,5 @@
-# Company List
 ## General
-- Oculus
-- Ubisoft
-- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Already Open for 2018)
+- Oculus: [Oculus](https://www3.oculus.com/en-us/careers/) (For Intership: Only Hire Research Internship)
 - Intel: [View great career opportunities at Intel](http://jobs.intel.com/ListJobs/All/Search/jobtitle/intern/keyword/software%20engineer/) (Already Open for 2018)
 - Twitter: [2018 University Application | Full-time & Internship](https://careers.twitter.com/en/work-for-twitter/2018-university-application-full-time-internship.html)
 - Nest: [Internships | Careers | Nest](https://nest.com/careers/internships/)
@@ -13,6 +10,10 @@
 ## StartUp
 - Drive.AI: [drive.ai | Building the Brain of Self-Driving Vehicles](https://www.drive.ai/careers/)
 - Airbnb: [University Recruiting at Airbnb](https://www.airbnb.com/careers/university)
+
+## Games
+- Ubisoft: [Ubisoft - Careers / Search for Jobs](https://www.ubisoft.com/en-US/careers/search.aspx)
+- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Already Open for 2018)
 
 ## HF
 - IMC
