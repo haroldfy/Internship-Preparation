@@ -39,8 +39,6 @@
 ## Games
 - Ubisoft: [Ubisoft - Careers / Search for Jobs](https://www.ubisoft.com/en-US/careers/search.aspx)
 - EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Already Open for 2018)
-- Value: [Valve](http://www.valvesoftware.com/jobs/index.html) (No new Grad)
-- BioWare: [Careers | BioWare](http://www.bioware.com/en/careers/#current-openings)
 
 ## Finance
 - IMC
