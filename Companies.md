@@ -35,11 +35,11 @@
 - Dropbox: [Jobs - University Grads & Interns - Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)
 - Quora: [Careers - Quora](https://www.quora.com/careers)
 - Spotify: [Search jobs at Spotify - Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
-- Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads) (Unopened)
+- Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads)
 
 ## Games
 - Ubisoft: [Ubisoft - Careers / Search for Jobs](https://www.ubisoft.com/en-US/careers/search.aspx)
-- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Opened for 2018)
+- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Opened)
 
 ## Finance
 - IMC
