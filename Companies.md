@@ -29,7 +29,7 @@
 
 ## StartUp
 - Drive.AI: [drive.ai | Building the Brain of Self-Driving Vehicles](https://www.drive.ai/careers/)
-- Airbnb: [University Recruiting at Airbnb](https://www.airbnb.com/careers/university)
+- Airbnb: [University Recruiting at Airbnb](https://www.airbnb.com/careers/university)(Opened)
 - Lyft: [Lyft Jobs](https://www.lyft.com/jobs)
 - Uber: [Find Opened Roles at Uber | Uber](https://www.uber.com/careers/list/?city=all&country=all&keywords=%23univrecruiting&subteam=all&team=all)
 - Dropbox: [Jobs - University Grads & Interns - Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)
