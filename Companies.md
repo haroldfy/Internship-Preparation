@@ -50,7 +50,7 @@
 - Two Sigma
 - Citadel
 - D.E.Shaw: [The D. E. Shaw Group | Careers](https://www.deshaw.com/Careers.shtml)(Opened)
+- Optiver: [Career Center](https://chk.tbe.taleo.net/chk01/ats/careers/v2/viewRequisition?org=OPTIVER&cws=40&rid=382) (Opened for Internship)
 
 ## Other
 - HBO: [Search For Jobs | Time Warner Inc.](http://www.timewarner.com/careers/job-search)
-- Pornhub: [Pornhub | Adult content | Montreal QC | On-site | pornhub.com (NSFW but not if y… | Hacker News](https://news.ycombinator.com/item?id=14901805)
