@@ -11,7 +11,7 @@
 - LinkedIn: [Technical](https://studentcareers.linkedin.com/internships/technical) 
 - Tesla: [University Careers | Tesla](https://www.tesla.com/careers/university)
 - Ebay: [Students & Recent Graduates - eBay Inc. Careers](https://careers.ebayinc.com/join-our-team/students-recent-graduates/) (Opened for Full-Time) 
-- Yelp: [Job Openedings at Yelp - We are Hiring Now!](https://www.yelp.com/careers/job-openings)
+- Yelp: [Job Opening at Yelp - We are Hiring Now!](https://www.yelp.com/careers/job-openings)
 - Expedia: [Workday](https://expedia.wd5.myworkdayjobs.com/search/jobs/) (Opened for Full-Time)
 - A9: [A9](https://www.a9.com/work-with-us/jobs.html) (Opened for Full-Time)
 - SalesForce: [Salesforce Careers - Salesforce.com](http://salesforce.careermount.com/)
@@ -20,7 +20,7 @@
 - Tinder: [Tinder](https://www.gotinder.com/jobs) (Opened for Full-Time)
 - IBM: [IBM Careers U.S | Entry level/Campus](http://www-03.ibm.com/employment/us/entry_level_campus.shtml)
 - Indeed: [Find Jobs - External Careers](https://www.indeed.jobs/career)
-- Zillow: [Current Job Openedings at Zillow](https://www.zillow.com/jobs/openings/)
+- Zillow: [Current Job Openings at Zillow](https://www.zillow.com/jobs/openings/)
 - Twitch: [Twitch](https://jobs.lever.co/twitch)
 - PureStorage: [Data Storage Jobs, Storage Industry - Join the Pure Storage Team](https://www.purestorage.com/company/careers.html)
 - PayPal: [Jobs in United States at PayPal](https://jobsearch.paypal-corp.com/search?keywords=&facetcountry=us&location=&facetcategory=)
@@ -28,20 +28,23 @@
 - Apple: [Apple - Jobs at Apple - Students](https://www.apple.com/jobs/us/students.html)
 - Bloomberg: [Bloomberg Careers | Start Here. Make Your Mark.](https://www.bloomberg.com/careers/) (Opened for Full-Time)
 - Yahoo: [Yahoo! Careers](https://careers.yahoo.com/gb/)
+- TripAdvisor: [Careers at TripAdvisor](https://www.tripadvisor.com/careers/search-jobs?job_category=18)
+- HBO: [Search For Jobs | Time Warner Inc.](http://www.timewarner.com/careers/job-search)
 
 ## StartUp
 - Drive.AI: [drive.ai | Building the Brain of Self-Driving Vehicles](https://www.drive.ai/careers/)
-- Airbnb: [University Recruiting at Airbnb](https://www.airbnb.com/careers/university)(Opened)
+- Airbnb: [University Recruiting at Airbnb](https://www.airbnb.com/careers/university)
 - Lyft: [Lyft Jobs](https://www.lyft.com/jobs)
 - Uber: [Find Opened Roles at Uber | Uber](https://www.uber.com/careers/list/?city=all&country=all&keywords=%23univrecruiting&subteam=all&team=all)
 - Dropbox: [Jobs - University Grads & Interns - Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)
 - Quora: [Careers - Quora](https://www.quora.com/careers)
 - Spotify: [Search jobs at Spotify - Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
-- Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads)
+- Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads) (Unopened)
+
 
 ## Games
 - Ubisoft: [Ubisoft - Careers / Search for Jobs](https://www.ubisoft.com/en-US/careers/search.aspx)
-- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Opened)
+- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Opened for 2018)
 
 ## Finance
 - IMC
@@ -49,8 +52,5 @@
 - Hudson River
 - Two Sigma
 - Citadel
-- D.E.Shaw: [The D. E. Shaw Group | Careers](https://www.deshaw.com/Careers.shtml)(Opened)
-- Optiver: [Career Center](https://chk.tbe.taleo.net/chk01/ats/careers/v2/viewRequisition?org=OPTIVER&cws=40&rid=382) (Opened for Internship)
-
-## Other
-- HBO: [Search For Jobs | Time Warner Inc.](http://www.timewarner.com/careers/job-search)
+- D.E.Shaw: [The D. E. Shaw Group | Careers](https://www.deshaw.com/Careers.shtml)
+- Optiver: [Career Center](https://chk.tbe.taleo.net/chk01/ats/careers/v2/viewRequisition?org=OPTIVER&cws=40&rid=382)(Opened)
