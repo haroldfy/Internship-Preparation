@@ -14,6 +14,7 @@
 - Yelp: [Job Opening at Yelp - We are Hiring Now!](https://www.yelp.com/careers/job-openings)
 - Expedia: [Workday](https://expedia.wd5.myworkdayjobs.com/search/jobs/) (Opened for Full-Time)
 - A9: [A9](https://www.a9.com/work-with-us/jobs.html) (Opened for Full-Time)
+- AmazonRobotics: [AmazonRobotics](https://www.amazonrobotics.com/#/internships) (Opened for Internship)
 - SalesForce: [Salesforce Careers - Salesforce.com](http://salesforce.careermount.com/)
 - Palantir: [Student Opportunities | Palantir](https://www.palantir.com/students/) (Opened for Full-Time)
 - Snap: [Jobs – Snap Inc.](https://www.snap.com/jobs/?roles=Engineering) (Opened for Full-Time)
