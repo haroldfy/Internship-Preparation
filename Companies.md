@@ -2,9 +2,9 @@
 ## General
 - Facebook: [Facebook Careers](https://www.facebook.com/careers/university/) (Opened)
 - Google: [Students - Google Careers](https://careers.google.com/students/)
-- Amazon: [University Recruiting - Amazon.jobs](https://www.amazon.jobs/en/business_categories/university-recruiting?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&business_category%5B%5D=university-recruiting&cache)(Opened for 2018, both for Full time and Internship)
+- Amazon: [University Recruiting - Amazon.jobs](https://www.amazon.jobs/en/business_categories/university-recruiting?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&business_category%5B%5D=university-recruiting&cache)(Opened)
 - Oculus: [Oculus](https://www3.oculus.com/en-us/careers/) (For Internship: Only Hire Research Internship)
-- Intel: [View great career opportunities at Intel](http://jobs.intel.com/ListJobs/All/Search/jobtitle/intern/keyword/software%20engineer/) (Opened for 2018)
+- Intel: [View great career opportunities at Intel](http://jobs.intel.com/ListJobs/All/Search/jobtitle/intern/keyword/software%20engineer/) (Opened)
 - Twitter: [2018 University Application | Full-time & Internship](https://careers.twitter.com/en/work-for-twitter/2018-university-application-full-time-internship.html)(Opened)
 - Nest: [Positions | Careers | Nest](https://nest.com/careers/positions/)
 - Microsoft: [Microsoft Careers: Students and graduates apply](https://careers.microsoft.com/students/apply?rg=US&jf=9&el=3&jt=2) (Opened)
@@ -40,13 +40,13 @@
 - Dropbox: [Jobs - University Grads & Interns - Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)(Opened)
 - Quora: [Careers - Quora](https://www.quora.com/careers)
 - Spotify: [Search jobs at Spotify - Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
-- Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads) (Unopened)
+- Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads)
 
 
 ## Games
 - Ubisoft: [Ubisoft - Careers / Search for Jobs](https://www.ubisoft.com/en-US/careers/search.aspx)
 - 2K: [2K Jobs](https://chp.tbe.taleo.net/chp04/ats/careers/searchResults.jsp?org=GAMES2K&cws=1)
-- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Opened for 2018)
+- EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Opened)
 
 ## Finance
 - IMC
