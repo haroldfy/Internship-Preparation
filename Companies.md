@@ -45,13 +45,20 @@
 
 ## Games
 - Ubisoft: [Ubisoft - Careers / Search for Jobs](https://www.ubisoft.com/en-US/careers/search.aspx)
+- 2K: [2K Jobs](https://chp.tbe.taleo.net/chp04/ats/careers/searchResults.jsp?org=GAMES2K&cws=1)
 - EA: [Student Careers at EA - Internship Opportunities - An Official EA Site](https://www.ea.com/careers/students) (Opened for 2018)
 
 ## Finance
 - IMC
 - Jane Street
 - Hudson River
-- Two Sigma
+- Two Sigma: [Find Jobs - Careers](https://careers.twosigma.com/careers/SearchJobs)(Opened)
 - Citadel
 - D.E.Shaw: [The D. E. Shaw Group | Careers](https://www.deshaw.com/Careers.shtml)
 - Optiver: [Career Center](https://chk.tbe.taleo.net/chk01/ats/careers/v2/viewRequisition?org=OPTIVER&cws=40&rid=382)(Opened)
+- Akuna Capital: [Careers – Akuna Capital](http://www.akunacapital.com/careers#student) (Opened)
+- Renaissance Institutional: [Renaissance Institutional](https://www.rentec.com/Careers.action?computerProgrammer=true) (Opened)
+- Five Rings: [Five Rings, LLC](https://www.fiveringscapital.com/career-opportunities)(Opened)
+- JumpTrading: [Jump Trading](http://www.jumptrading.com/jobs.html)
+- IMC: [Graduates - IMC](https://www.imc.com/us/careers/graduates/) (Opened)
+- Bridgewater: [Bridgewater Associates, LP](https://www.bridgewater.com/campus-tech/)
