@@ -55,9 +55,9 @@
 - Two Sigma: [Find Jobs - Careers](https://careers.twosigma.com/careers/SearchJobs)
 - Citadel
 - D.E.Shaw: [The D. E. Shaw Group | Careers](https://www.deshaw.com/Careers.shtml)
-- Optiver: [Career Center](https://chk.tbe.taleo.net/chk01/ats/careers/v2/viewRequisition?org=OPTIVER&cws=40&rid=382)(Opened)
+- Optiver: [Career Center](https://chk.tbe.taleo.net/chk01/ats/careers/v2/viewRequisition?org=OPTIVER&cws=40&rid=382)
 - Akuna Capital: [Careers – Akuna Capital](http://www.akunacapital.com/careers#student)
-- Renaissance Institutional: [Renaissance Institutional](https://www.rentec.com/Careers.action?computerProgrammer=true) (Opened)
+- Renaissance Institutional: [Renaissance Institutional](https://www.rentec.com/Careers.action?computerProgrammer=true) 
 - Five Rings: [Five Rings, LLC](https://www.fiveringscapital.com/career-opportunities)
 - JumpTrading: [Jump Trading](http://www.jumptrading.com/jobs.html)
 - IMC: [Graduates - IMC](https://www.imc.com/us/careers/graduates/) 
