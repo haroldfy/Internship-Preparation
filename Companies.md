@@ -37,7 +37,7 @@
 - Airbnb: [University Recruiting at Airbnb](https://www.airbnb.com/careers/university)
 - Lyft: [Lyft Jobs](https://www.lyft.com/jobs)
 - Uber: [Find Opened Roles at Uber | Uber](https://www.uber.com/careers/list/?city=all&country=all&keywords=%23univrecruiting&subteam=all&team=all)
-- Dropbox: [Jobs - University Grads & Interns - Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)(Opened)
+- Dropbox: [Jobs - University Grads & Interns - Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads#open-positions)
 - Quora: [Careers - Quora](https://www.quora.com/careers)
 - Spotify: [Search jobs at Spotify - Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
 - Pinterest: [Interns and New Grads | Pinterest Careers](https://careers.pinterest.com/careers/interns-and-new-grads)
