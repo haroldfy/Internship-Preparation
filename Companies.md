@@ -3,7 +3,7 @@
 - Facebook: [Facebook Careers](https://www.facebook.com/careers/university/) 
 - Google: [Students - Google Careers](https://careers.google.com/students/)
 - Amazon: [University Recruiting - Amazon.jobs](https://www.amazon.jobs/en/business_categories/university-recruiting?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&business_category%5B%5D=university-recruiting&cache)
-- Oculus: [Oculus](https://www3.oculus.com/en-us/careers/) 
+- Oculus: [Oculus](https://www3.oculus.com/en-us/careers/) (Now open for 2018 Fall Internship)
 - Intel: [View great career opportunities at Intel](http://jobs.intel.com/ListJobs/All/Search/jobtitle/intern/keyword/software%20engineer/)
 - Twitter: [2018 University Application | Full-time & Internship](https://careers.twitter.com/en/work-for-twitter/2018-university-application-full-time-internship.html)
 - Nest: [Positions | Careers | Nest](https://nest.com/careers/positions/)
